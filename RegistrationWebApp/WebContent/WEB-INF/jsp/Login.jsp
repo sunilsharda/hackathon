@@ -41,7 +41,7 @@
 
     <div class="container">
 
-      <image class="login-image" src="assets/image/TRP-logo-V2.gif"/>
+      <image class="login-image" src="../../assets/image/TRP-logo-V2.gif"/>
       <form class="form-signin" action="registration/" method="post">
         <h2 class="form-signin-header">Please Sign in to Your T. Rowe Price Account</h2>
         <label for="inputUsername" class="sr-only">Username</label>
@@ -55,8 +55,6 @@
       </form>
 
     </div> <!-- /container -->
-
-	<c:out value="${message}" />
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
