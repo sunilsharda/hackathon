@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+body.t-rowe
+{
+	background-color: #DBE7ED;
+}
+
+.login-image
+{
+    display: block;
+    margin: auto;
+}
+
+body.t-rowe .form-signin-header
+{
+	text-align: center;
+}

@@ -1,0 +1,5 @@
+{"prices":[
+    {"symbol":"MSFT", "price":100.5},
+    {"symbol":"CSCO", "price":15.45},
+    {"symbol":"IBM", "price":12.34}
+]}
