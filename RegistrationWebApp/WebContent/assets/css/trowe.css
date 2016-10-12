@@ -10,3 +10,8 @@ body.t-rowe
     display: block;
     margin: auto;
 }
+
+body.t-rowe .form-signin-header
+{
+	text-align: center;
+}
