@@ -42,7 +42,7 @@
     <div class="container">
 
       <image class="login-image" src="../../assets/image/TRP-logo-V2.gif"/>
-      <form class="form-signin" action="registration/" method="post">
+      <form class="form-signin" action="../registration" method="post">
         <h2 class="form-signin-header">Please Sign in to Your T. Rowe Price Account</h2>
         <label for="inputUsername" class="sr-only">Username</label>
         <input type="text" id="inputUsername" class="form-control" placeholder="Username" required autofocus>
